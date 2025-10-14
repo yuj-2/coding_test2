@@ -4,4 +4,4 @@ WHERE PRICE = (
                 SELECT MAX(PRICE)
                 FROM FOOD_PRODUCT 
                 
-                )
+                );
